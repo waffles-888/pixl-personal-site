@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Comic_CAT';
+    src: url('assets/fonts/Comic_CAT.otf') format('woff');
+}
+
+body {
+    font-family: 'Comic_CAT', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comic_CAT', sans-serif;
+    margin: 0;
+    padding: 0.5em 0;
+}
+
+.waffles-image {
+    border-radius: 50%;
+}
+

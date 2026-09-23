@@ -2,22 +2,26 @@
     font-family: 'Comic_CAT';
     src: url('assets/fonts/Comic_CAT.otf') format('woff');
 }
-/* home styling
+
 .home {
     font-family: 'Comic_CAT', sans-serif;
-    background-color: #F4D8CD;
-    color: #1E555C;
+    color: #e5e5e5;
     margin: 0;
     padding: 0;
 }
-*/
+
 
 .projects {
     font-family: 'Comic_CAT', sans-serif;
     background-color: #F4D8CD;
-    color: #1E555C;
+    color: #e5e5e5;
     margin: 0;
     padding: 0;
+}
+
+#projects h5 {
+    font-family: 'Comic_CAT', sans-serif;
+    color: #e5e5e5;
 }
 
 .contact {
@@ -34,13 +38,6 @@
     color: #1E555C;
     margin: 0;
     padding: 0;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-    font-family: 'Comic_CAT', sans-serif;
-    margin: 0;
-    padding: 0.5em 0;
-    color: #1E555C;
 }
 
 .waffles-image {
@@ -61,6 +58,21 @@ h1, h2, h3, h4, h5, h6, p {
   animation: fadeSlideIn 1s ease-out;
 }
 
+.card-body {
+  padding: 1rem;
+  background-color: #14213d;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#projects h5 p {
+  color: #e5e5e5;
+}
+
+
 @keyframes fadeSlideIn {
     from {
         opacity: 0;
@@ -72,10 +84,7 @@ h1, h2, h3, h4, h5, h6, p {
     }
 }
 
-.card-body {
-  padding: 1rem;
-  background-color: #EDB183;
-}
+
 
 /* starfield canvas styling */
 #starfield {

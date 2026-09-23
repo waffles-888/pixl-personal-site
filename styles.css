@@ -10,24 +10,29 @@
     padding: 0;
 }
 
-
-.projects {
+.home p {
     font-family: 'Comic_CAT', sans-serif;
-    background-color: #F4D8CD;
-    color: #e5e5e5;
+    color: #fca311;
     margin: 0;
     padding: 0;
 }
 
-#projects h5 {
+
+.projects p {
+    font-family: 'Comic_CAT', sans-serif;
+    color: #fca311;
+    margin: 0;
+    padding: 0;
+}
+
+.projects h5, h1 {
     font-family: 'Comic_CAT', sans-serif;
     color: #e5e5e5;
 }
 
-.contact {
+.contact p {
     font-family: 'Comic_CAT', sans-serif;
-    background-color: #F4D8CD;
-    color: #1E555C;
+    color: #fca311;
     margin: 0;
     padding: 0;
 }

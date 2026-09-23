@@ -27,6 +27,14 @@
     padding: 0;
 }
 
+.error-page {
+    font-family: 'Comic_CAT', sans-serif;
+    background-color: #F4D8CD;
+    color: #1E555C;
+    margin: 0;
+    padding: 0;
+}
+
 h1, h2, h3, h4, h5, h6, p {
     font-family: 'Comic_CAT', sans-serif;
     margin: 0;

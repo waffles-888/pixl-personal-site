@@ -6,6 +6,7 @@
 .home {
     font-family: 'Comic_CAT', sans-serif;
     background-color: #F4D8CD;
+    color: #1E555C;
     margin: 0;
     padding: 0;
 }
@@ -13,6 +14,7 @@
 .projects {
     font-family: 'Comic_CAT', sans-serif;
     background-color: #F4D8CD;
+    color: #1E555C;
     margin: 0;
     padding: 0;
 }
@@ -20,6 +22,7 @@
 .contact {
     font-family: 'Comic_CAT', sans-serif;
     background-color: #F4D8CD;
+    color: #1E555C;
     margin: 0;
     padding: 0;
 }
@@ -46,4 +49,9 @@ h1, h2, h3, h4, h5, h6, p {
   margin: 2rem 0;
   max-width: 28rem;
   text-align: center;
+}
+
+.card-body {
+  padding: 1rem;
+  background-color: #EDB183;
 }

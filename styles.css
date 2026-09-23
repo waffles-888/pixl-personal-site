@@ -27,3 +27,9 @@ h1, h2, h3, h4, h5, h6, p {
     gap: 1em;
     margin-top: 1em;
 }
+
+.card {
+  margin: 2rem 0;
+  max-width: 28rem;
+  text-align: center;
+}
